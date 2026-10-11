@@ -10,7 +10,7 @@
 </div>
 
 ### 🚀 About Me
-I'm a passionate Full-Stack & Desktop Software Developer dedicated to building performant web applications, offline-first systems, and AI-powered solutions. I specialize in modern JavaScript, real-time networking, and scalable architectures.
+I'm a passionate MERN developer & Desktop Software Developer dedicated to building performant web applications, offline-first systems, and AI-powered solutions. I specialize in modern JavaScript, real-time networking, and scalable architectures.
 
 - 🔭 **Current Focus:** Full-stack MERN engineering, offline-first Electron apps, and real-time systems.
 - 🌱 **Exploring:** Machine Learning workflows, WebRTC peer streaming, and automated CI/CD deployment pipelines.
